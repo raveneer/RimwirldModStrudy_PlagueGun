@@ -1,0 +1,4 @@
+<LanguageData>
+  <TST_PlagueBullet_FailureMote>감염 실패: {0}의 확률</TST_PlagueBullet_FailureMote>
+  <TST_PlagueBullet_SuccessMessage>{0}은 {1}을(를) 성공적으로 감염 시켰습니다!</TST_PlagueBullet_SuccessMessage>
+</LanguageData>

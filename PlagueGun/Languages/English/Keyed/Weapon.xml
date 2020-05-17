@@ -1,0 +1,4 @@
+<LanguageData>
+  <TST_PlagueBullet_FailureMote>fail: {0} percent</TST_PlagueBullet_FailureMote>
+  <TST_PlagueBullet_SuccessMessage>{0} successful enfect {1} !</TST_PlagueBullet_SuccessMessage>
+</LanguageData>
