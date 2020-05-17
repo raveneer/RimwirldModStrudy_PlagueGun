@@ -1,0 +1,7 @@
+E:\steam\steamapps\common\RimWorld\Mods\PlagueGun\Assemblies\Plague.dll
+E:\steam\steamapps\common\RimWorld\Mods\PlagueGun\Assemblies\Plague.pdb
+E:\steam\steamapps\common\RimWorld\Mods\PlagueGun\Source\PlagueGunMod\PlagueGunMod\obj\Debug\PlagueGunMod.csprojAssemblyReference.cache
+E:\steam\steamapps\common\RimWorld\Mods\PlagueGun\Source\PlagueGunMod\PlagueGunMod\obj\Debug\PlagueGunMod.csproj.CoreCompileInputs.cache
+E:\steam\steamapps\common\RimWorld\Mods\PlagueGun\Source\PlagueGunMod\PlagueGunMod\obj\Debug\Plague.dll
+E:\steam\steamapps\common\RimWorld\Mods\PlagueGun\Source\PlagueGunMod\PlagueGunMod\obj\Debug\Plague.pdb
+E:\steam\steamapps\common\RimWorld\Mods\PlagueGun\Source\PlagueGunMod\PlagueGunMod\obj\Debug\PlagueGunMod.csproj.CopyComplete
